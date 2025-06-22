@@ -1,5 +1,5 @@
 # Stepper-motor-with-Verilog
-🌀 Stepper Motor Control with Verilog | Altera Cyclone IV (DE1-115 Board)
+🌀 Stepper Motor Control with Verilog | Altera Cyclone IV (DE2-115 Board)
 This project demonstrates a basic stepper motor controller implemented in Verilog HDL, targeting the Altera Cyclone IV FPGA on the DE1-115 development board. The design allows directional control of a standard bipolar stepper motor.
 
 🔧 Features
