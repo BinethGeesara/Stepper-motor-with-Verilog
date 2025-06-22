@@ -14,5 +14,5 @@ This project demonstrates a basic stepper motor controller implemented in Verilo
 🎛️ Inputs: Board switches for direction and step control
 🔌 Output: GPIO pins connected to stepper driver inputs
 
-![Stepper Motor Demo](https://github.com/BinethGeesara/Stepper-motor-with-Verilog/blob/e2a7830280b4c2b5e3af53ac357ba770f4d5bbe6/IMG_4227.jpg)
+![Stepper Motor Demo](https://github.com/BinethGeesara/Stepper-motor-with-Verilog/blob/32b2a496f5267e71cc95e046e3b968c1f0aa4426/IMG_4227.jpg)
 
